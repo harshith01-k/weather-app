@@ -1,0 +1,18 @@
+body
+{
+    background-color: #f3f3f3;
+}
+.s1
+{
+    color: blue;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+   
+    font-family: sans-serif;
+}
